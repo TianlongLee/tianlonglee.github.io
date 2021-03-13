@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yang Li&#39;s Website</title>
+    <link>https://tianlonglee.github.io/publication-type/1/</link>
+      <atom:link href="https://tianlonglee.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yang Li</copyright><lastBuildDate>Sat, 13 Mar 2021 14:28:16 +0800</lastBuildDate>
+    <image>
+      <url>https://tianlonglee.github.io/media/icon_hu15d2c9f596ce133d607e52472f13b9a6_10973_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://tianlonglee.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>BSNN: Towards better ANN-SNN Conversion</title>
+      <link>https://tianlonglee.github.io/publication/2021-bsnn/</link>
+      <pubDate>Sat, 13 Mar 2021 14:28:16 +0800</pubDate>
+      <guid>https://tianlonglee.github.io/publication/2021-bsnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
